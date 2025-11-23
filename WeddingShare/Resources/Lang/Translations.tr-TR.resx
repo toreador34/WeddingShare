@@ -62,49 +62,49 @@
     <value>Bu konu devam ederse lütfen web yöneticisiyle iletişime geçin</value>
   </data>
   <data name="400_Error_Title" xml:space="preserve">
-    <value>Opps, beklenmedik bir hata gibi görünüyor...</value>
+    <value>Opps, beklenmedik bir hata oluştu...</value>
   </data>
   <data name="401_Error_Message" xml:space="preserve">
-    <value>Bu sayfayı görmek için yetkili olmadığınız gibi görünüyor...</value>
+    <value>Bu sayfayı görmek için yetkiniz yok...</value>
   </data>
   <data name="401_Error_Title" xml:space="preserve">
-    <value>Access Denied</value>
+    <value>401 Erişim Reddedildi</value>
   </data>
   <data name="402_Error_Message" xml:space="preserve">
     <value>Sağlanan gizli anahtar yanlıştı</value>
   </data>
   <data name="402_Error_Title" xml:space="preserve">
-    <value>Invalid Secret Key</value>
+    <value>Geçersiz Gizli Anahtar</value>
   </data>
   <data name="403_Error_Message" xml:space="preserve">
-    <value>Belirtilen jellery mevcut değildir ve onu oluşturmak için izniniz yoktur</value>
+    <value>Belirtilen jellery mevcut değil ve/veya oluşturmak için izniniz yok</value>
   </data>
   <data name="403_Error_Title" xml:space="preserve">
-    <value>Access Denied</value>
+    <value>403 Erişim Reddedildi</value>
   </data>
   <data name="405_Error_Message" xml:space="preserve">
-    <value>Maksimum galeri oluşturma limitine ulaştınız</value>
+    <value>Maksimum galeri oluşturma limitine ulaştınız.</value>
   </data>
   <data name="405_Error_Title" xml:space="preserve">
-    <value>Limit ulaştı</value>
+    <value>405 Limit aşıldı</value>
   </data>
   <data name="406_Error_Message" xml:space="preserve">
     <value>Belirtilen galeri mevcut değildir</value>
   </data>
   <data name="406_Error_Title" xml:space="preserve">
-    <value>Invalid Gallery</value>
+    <value>406 Geçersiz Galeri</value>
   </data>
   <data name="407_Error_Message" xml:space="preserve">
-    <value>Hesabınızı doğrulamaya çalışırken bir sorun vardı. Lütfen doğrulama bağlantının geçerli olmasını sağlayın.</value>
+    <value>Hesabınızı doğrulamaya çalışırken bir sorun oluştu. Lütfen doğrulama bağlantısının geçerli olduğundan emin olun.</value>
   </data>
   <data name="407_Error_Title" xml:space="preserve">
-    <value>Invalid Verification Link Link Link Link</value>
+    <value>407 Geçersiz Doğrulama Bağlantısı</value>
   </data>
   <data name="408_Error_Message" xml:space="preserve">
-    <value>Hesap parolanızı sıfırlamaya çalışırken bir sorun vardı. Lütfen doğrulama bağlantının geçerli olmasını sağlayın.</value>
+    <value>Hesap parolanızı sıfırlamaya çalışırken bir sorun oluştu. Lütfen doğrulama bağlantısının geçerli olduğundan emin olun.</value>
   </data>
   <data name="408_Error_Title" xml:space="preserve">
-    <value>Invalid Password reset Link</value>
+    <value>408 Geçersiz Parola Sıfırlama Linki</value>
   </data>
   <data name="Accept" xml:space="preserve">
     <value>Kabul</value>
@@ -116,85 +116,85 @@
     <value>Eylemler</value>
   </data>
   <data name="Add" xml:space="preserve">
-    <value>Add</value>
+    <value>Ekle</value>
   </data>
   <data name="All" xml:space="preserve">
-    <value>Bütün Bütün Hepsi</value>
+    <value>Hepsi</value>
   </data>
   <data name="Approve" xml:space="preserve">
-    <value>Approve</value>
+    <value>Onay</value>
   </data>
   <data name="Approved" xml:space="preserve">
-    <value>Onaylanmış Onaylanmış Onaylanmış Onay Onay Onaylandı</value>
+    <value>Onaylanmış</value>
   </data>
   <data name="Ascending" xml:space="preserve">
-    <value>Ascending</value>
+    <value>Artan</value>
   </data>
   <data name="Audit" xml:space="preserve">
-    <value>Denetim Denetim Denetimi</value>
+    <value>Denetim</value>
   </data>
   <data name="Audit_Account_Registered" xml:space="preserve">
-    <value>Kullanıcı kayıtlı hesabı</value>
+    <value>Kayıtlı Kullanıcı</value>
   </data>
   <data name="Audit_ActivateUser" xml:space="preserve">
-    <value>Aktif kullanıcı</value>
+    <value>Aktif Kullanıcı</value>
   </data>
   <data name="Audit_BulkApproveReviews" xml:space="preserve">
-    <value>Bulk tüm bekleyen yorumları onayladı</value>
+    <value>Bekleyen tüm yorumları onayla</value>
   </data>
   <data name="Audit_BulkRejectReviews" xml:space="preserve">
-    <value>Bulk tüm bekleyen yorumları reddetti</value>
+    <value>Bekleyen tüm yorumları reddet</value>
   </data>
   <data name="Audit_CookieConsentApproved" xml:space="preserve">
-    <value>Bir ziyaretçi kurabiyenin kullanımını onayladı</value>
+    <value>Bir ziyaretçi çerez kullanımını onayladı</value>
   </data>
   <data name="Audit_CreatedGallery" xml:space="preserve">
-    <value>Oluşturulmuş galeri</value>
+    <value>Oluşturulmuş Galeri</value>
   </data>
   <data name="Audit_CreatedNewUser" xml:space="preserve">
     <value>Yeni kullanıcı oluşturun</value>
   </data>
   <data name="Audit_CustomResourceDeleted" xml:space="preserve">
-    <value>Deleted custom resource</value>
+    <value>Silinmiş Özel Kaynak</value>
   </data>
   <data name="Audit_CustomResourceUploaded" xml:space="preserve">
-    <value>Yöre özel kaynak</value>
+    <value>Yüklenmiş Özel Kaynak</value>
   </data>
   <data name="Audit_DeletedGallery" xml:space="preserve">
-    <value>Deleted gallery</value>
+    <value>Silinmiş Galeri</value>
   </data>
   <data name="Audit_DeletedUser" xml:space="preserve">
-    <value>Deleted user</value>
+    <value>Silinmiş Kullanıcı</value>
   </data>
   <data name="Audit_Email_Verified" xml:space="preserve">
     <value>Kullanıcı e-posta adresini doğruladı</value>
   </data>
   <data name="Audit_ExportedBackup" xml:space="preserve">
-    <value>Bir yedekleme</value>
+    <value>Dışa aktarılmış yedek</value>
   </data>
   <data name="Audit_FailedLoginAttemptDetected" xml:space="preserve">
     <value>Başarısız giriş denemesi tespit edildi</value>
   </data>
   <data name="Audit_FailedLoginAttemptReset" xml:space="preserve">
-    <value>Başarısız giriş girişimleri sıfırlama</value>
+    <value>Başarısız giriş denemeleri sıfırlama</value>
   </data>
   <data name="Audit_Forgot_Password" xml:space="preserve">
     <value>Kullanıcı bir parola sıfırlama talep etti</value>
   </data>
   <data name="Audit_FrozeUser" xml:space="preserve">
-    <value>Froze kullanıcı</value>
+    <value>Kullanıcıyı Askıya Al</value>
   </data>
   <data name="Audit_ImportedBackup" xml:space="preserve">
-    <value>Bir yedekleme</value>
+    <value>İçe aktarılmış yedek</value>
   </data>
   <data name="Audit_ItemApprovedInGallery" xml:space="preserve">
-    <value>galeride onaylanan</value>
+    <value>Galeride Onaylandı</value>
   </data>
   <data name="Audit_ItemDeletedInGallery" xml:space="preserve">
-    <value>galeride silindi</value>
+    <value>Galeride Silindi</value>
   </data>
   <data name="Audit_ItemRejectedInGallery" xml:space="preserve">
-    <value>galeride reddedildi</value>
+    <value>Galeride Reddedildi</value>
   </data>
   <data name="Audit_Limit_Help" xml:space="preserve">
     <value>Göstermek için kaç giriş</value>
@@ -209,16 +209,16 @@
     <value>Logged out</value>
   </data>
   <data name="Audit_Logs" xml:space="preserve">
-    <value>Denetim Logs</value>
+    <value>Denetim Kayıtları</value>
   </data>
   <data name="Audit_MultiFactorAdded" xml:space="preserve">
-    <value>Hesabına çok faktör eklendi</value>
+    <value>Hesabına çok faktörlü doğrulama eklendi</value>
   </data>
   <data name="Audit_MultiFactorPassed" xml:space="preserve">
     <value>Doğru multi-faktör token</value>
   </data>
   <data name="Audit_MultiFactorReset" xml:space="preserve">
-    <value>Çok faktörlü anahtarlarını sıfırlama</value>
+    <value>Çok faktörlü doğrulama anahtarlarını sıfırlama</value>
   </data>
   <data name="Audit_MultiFactorResetUser" xml:space="preserve">
     <value>Kullanıcı için çoklu faktör</value>
@@ -230,7 +230,7 @@
     <value>Bir arama terimine dayanan filtre logları</value>
   </data>
   <data name="Audit_SearchTerm_Label" xml:space="preserve">
-    <value>Arama Termi</value>
+    <value>Arama Terimi</value>
   </data>
   <data name="Audit_SettingsUpdated" xml:space="preserve">
     <value>Galeri için Güncelleme ayar</value>
